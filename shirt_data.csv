@@ -1,0 +1,767 @@
+brand,size_num,size
+Roadster,38,S
+Roadster,40,M
+Roadster,42,L
+Roadster,44,XL
+Roadster,46,XXL
+Roadster,48,3XL
+WROGN,39,S
+WROGN,40,M
+WROGN,42,L
+WROGN,44,XL
+WROGN,46,XXL
+WROGN,39,S
+WROGN,40,M
+WROGN,42,L
+WROGN,44,XL
+WROGN,46,XXL
+Dennis Lingo,38,S
+Dennis Lingo,40,M
+Dennis Lingo,42,L
+Dennis Lingo,44,XL
+Dennis Lingo,46,XXL
+Highlander,39,S
+Highlander,40,M
+Highlander,42,L
+Highlander,44,XL
+Highlander,46,XXL
+Campus Sutra,38,S
+Campus Sutra,40,M
+Campus Sutra,42,L
+Campus Sutra,44,XL
+The Indian Garage,39,S
+The Indian Garage,40,M
+The Indian Garage,42,L
+The Indian Garage,44,XL
+The Indian Garage,46,XXL
+INVICTUS,38,S
+INVICTUS,39,M
+INVICTUS,40,L
+INVICTUS,42,XL
+INVICTUS,44,XXL
+The Bear House,38,S
+The Bear House,40,M
+The Bear House,42,L
+The Bear House,44,XL
+The Bear House,46,XXL
+United Colors of Benetto,38,S
+United Colors of Benetto,40,M
+United Colors of Benetto,42,L
+United Colors of Benetto,44,XL
+US POLO,38,S
+US POLO,40,M
+US POLO,42,L
+US POLO,44,XL
+US POLO,46,XXL
+LOCOMOTIVE,39,S
+LOCOMOTIVE,40,M
+LOCOMOTIVE,42,L
+LOCOMOTIVE,44,XL
+HERE & NOW,38,S
+HERE & NOW,40,M
+HERE & NOW,42,L
+HERE & NOW,44,XL
+HERE & NOW,46,XXL
+Mast & Harbour,38,S
+Mast & Harbour,40,M
+Mast & Harbour,42,L
+Mast & Harbour,44,XL
+Peter England,38,XS
+Peter England,39,S
+Peter England,40,M
+Peter England,42,L
+Peter England,44,XL
+Peter England,46,XXL
+Arrow Sport,38,S
+Arrow Sport,39,M
+Arrow Sport,40,L
+Arrow Sport,42,XL
+Arrow Sport,44,XXL
+Wild West,38,S
+Wild West,40,M
+Wild West,42,L
+Wild West,44,XL
+Wild West,46,XXL
+Van Heusen Denim Labs,38,XS
+Van Heusen Denim Labs,39,S
+Van Heusen Denim Labs,40,M
+Van Heusen Denim Labs,42,L
+Van Heusen Denim Labs,44,XL
+Van Heusen Denim Labs,46,XXL
+Bene Kleed,38,S
+Bene Kleed,39,M
+Bene Kleed,40,L
+Bene Kleed,42,XL
+Bene Kleed,44,XXL
+R&B,38,S
+R&B,40,M
+R&B,42,L
+R&B,44,XL
+R&B,46,XXL
+JANISH,36,XS
+JANISH,38,S
+JANISH,40,M
+JANISH,42,L
+JANISH,44,XL
+H&M,36,XS
+H&M,38,S
+H&M,40,M
+H&M,42,L
+H&M,44,XL
+Van Heusen Sport,38,XS
+Van Heusen Sport,39,S
+Van Heusen Sport,40,M
+Van Heusen Sport,42,L
+Ether,38,S
+Ether,40,M
+Ether,42,L
+Ether,44,XL
+Nautica,39,S
+Nautica,40,M
+Nautica,42,L
+Nautica,44,XL
+Nautica,46,XXL
+IVOC,38,XS
+IVOC,39,S
+IVOC,40,M
+IVOC,42,L
+IVOC,44,XL
+V Mart,38,S
+V Mart,40,M
+V Mart,42,L
+V Mart,44,XL
+V Mart,46,XXL
+Harvard,38,S
+Harvard,40,M
+Harvard,42,L
+Harvard,44,XL
+Allen Solly,38,XS
+Allen Solly,39,S
+Allen Solly,40,M
+Allen Solly,42,L
+Allen Solly,44,XL
+Allen Solly,46,XXL
+Tisbtane,38,S
+Tisbtane,40,M
+Tisbtane,42,L
+Tisbtane,44,XL
+Tisbtane,46,XXL
+Levis,38,S
+Levis,40,M
+Levis,42,L
+Levis,44,XL
+Sztori,46,XXL
+Hancock,38,S
+Hancock,40,M
+Hancock,42,L
+Hancock,44,XL
+Park Avenue,39,S
+Park Avenue,40,M
+Park Avenue,42,L
+Park Avenue,44,XL
+Park Avenue,46,XXL
+Black Berry,38,S
+Black Berry,39,M
+Black Berry,40,L
+Black Berry,42,XL
+Black Berry,44,XXL
+Forever,38,XS
+Forever,39,S
+Forever,40,M
+Forever,41,L
+Forever,42,XL
+Forever,43,XXL
+Tommy Hilfiger,38,XS
+Tommy Hilfiger,39,S
+Tommy Hilfiger,40,M
+Tommy Hilfiger,42,L
+Tommy Hilfiger,46,XL
+Tommy Hilfiger,48,XXL
+Raymond,39,S
+Raymond,40,M
+Raymond,42,L
+Raymond,44,XL
+Raymond,46,XXL
+Shaftesbury London,36,XS
+Shaftesbury London,38,S
+Shaftesbury London,40,M
+Shaftesbury London,42,L
+Shaftesbury London,44,XL
+Shaftesbury London,46,XXL
+Dennison,38,S
+Dennison,40,M
+Dennison,42,L
+Dennison,44,XL
+Sojanya,36,XS
+Sojanya,38,S
+Sojanya,40,M
+Sojanya,42,L
+Sojanya,44,XL
+SELECTED,38,S
+SELECTED,40,M
+SELECTED,42,L
+SELECTED,44,XL
+SELECTED,46,XXL
+English Navy,38,S
+English Navy,40,M
+English Navy,42,L
+English Navy,44,XL
+Nirvaan,38,S
+Nirvaan,40,M
+Nirvaan,42,L
+Nirvaan,44,XL
+Code By Lifestyle,39,S
+Code By Lifestyle,40,M
+Code By Lifestyle,42,L
+Code By Lifestyle,44,XL
+Code By Lifestyle,46,XXL
+Identiti,38,S
+Identiti,40,M
+Identiti,42,L
+Identiti,44,XL
+Identiti,46,XXL
+Harvard,38,S
+Harvard,40,M
+Harvard,42,L
+Harvard,44,XL
+Soratia,36,S
+Soratia,38,M
+Soratia,40,L
+Soratia,42,XL
+Soratia,44,XXL
+Parx,38,S
+Parx,39,M
+Parx,40,L
+Parx,42,XL
+Green Fibre,38,S
+Green Fibre,39,M
+Green Fibre,40,L
+Green Fibre,42,XL
+Green Fibre,44,XXL
+Basics,38,XS
+Basics,39,S
+Basics,40,M
+Basics,42,L
+Basics,44,XL
+Basics,46,XXL
+Color Plus,39,S
+Color Plus,40,M
+Color Plus,42,L
+Color Plus,44,XL
+AD by Aravimdh,39,S
+AD by Aravimdh,40,M
+AD by Aravimdh,42,L
+AD by Aravimdh,44,XL
+Arrow Newyork,38,XS
+Arrow Newyork,39,S
+Arrow Newyork,40,M
+Arrow Newyork,42,L
+Arrow Newyork,44,XL
+Arrow Newyork,46,XXL
+Andamen,39,S
+Andamen,40,M
+Andamen,42,L
+Andamen,44,XL
+Andamen,46,XXL
+American Eagle,35,XS
+American Eagle,38,S
+American Eagle,39,M
+American Eagle,40,L
+American Eagle,42,XL
+American Eagle,44,XXL
+abof,40,S
+abof,42,M
+abof,44,L
+abof,47,XL
+Antony Morato,35,XXS
+Antony Morato,37,XS
+Antony Morato,39,S
+Antony Morato,41,M
+Antony Morato,43,L
+Anuok,38,S
+Anuok,40,M
+Anuok,42,L
+Anuok,44,XL
+Anuok,46,XXL
+Amrut Varsha Creation,42,M
+Amrut Varsha Creation,44,L
+Amrut Varsha Creation,46,XL
+Amrut Varsha Creation,48,XXL
+ANFOLD,35,XS
+ANFOLD,38,S
+ANFOLD,42,M
+ANFOLD,44,L
+ANFOLD,45,XL
+ANFOLD,47,XXL
+American Bull,39,S
+American Bull,40,M
+American Bull,42,L
+American Bull,44,XL
+American Bull,46,XXL
+Allen Solly Tribe,38,S
+Allen Solly Tribe,39,M
+Allen Solly Tribe,40,L
+Allen Solly Tribe,42,XL
+A okay,38,S
+A okay,40,M
+A okay,42,L
+Armisto,36,S
+Armisto,38,M
+Armisto,40,L
+Armisto,42,XL
+Armisto,44,XXL
+American Swan,38,S
+American Swan,40,M
+American Swan,42,L
+American Swan,44,XL
+American Swan,46,XXL
+Aazing London,33,XS
+Aazing London,35,S
+Aazing London,37,M
+Aazing London,39,L
+Aazing London,41,XL
+Aazing London,43,XXL
+Aesthetic Bodies,36,XS
+Aesthetic Bodies,38,S
+Aesthetic Bodies,40,M
+Aesthetic Bodies,42,L
+Aesthetic Bodies,44,XL
+Beat London,38,S
+Beat London,40,M
+Beat London,42,L
+Beat London,44,XL
+Beat London,46,XXL
+Being Human,38,S
+Being Human,40,M
+Being Human,42,L
+Being Human,44,XL
+Being Human,46,XXL
+Byford By Pantaloons,38,S
+Byford By Pantaloons,39,M
+Byford By Pantaloons,40,L
+Byford By Pantaloons,42,XL
+Byford By Pantaloons,44,XXL
+Brunn & Stengade,38,XS
+Brunn & Stengade,39,S
+Brunn & Stengade,40,M
+Brunn & Stengade,42,L
+Brunn & Stengade,44,XL
+Black Coffe,39,S
+Black Coffe,40,M
+Black Coffe,42,L
+Black Coffe,44,XL
+Bawerin,38,M
+Bawerin,40,L
+Bawerin,42,XL
+Bawerin,44,XXL
+BigBanana,49,XXL
+Bushirt,40,M
+Bushirt,42,L
+Bushirt,44,XL
+Bushirt,46,XXL
+Bossini,38,XS
+Bossini,39,S
+Bossini,40,M
+Bossini,42,L
+Bossini,44,XL
+Bossini,46,XXL
+Bedgasm,38,S
+Bedgasm,40,M
+Bedgasm,42,L
+Bedgasm,44,XL
+Blamblack,38,S
+Blamblack,40,M
+Blamblack,42,L
+Blamblack,44,XL
+Blamblack,46,XXL
+Break Bounce,38,S
+Break Bounce,40,M
+Break Bounce,42,L
+Break Bounce,44,XL
+Break Bounce,46,XXL
+Balista,38,S
+Balista,40,M
+Balista,42,L
+Balista,44,XL
+Bewakoof,38,S
+Bewakoof,40,M
+Bewakoof,42,L
+Bewakoof,44,XL
+Bewakoof,46,XXL
+British club,36,S
+British club,38,M
+British club,40,L
+British club,42,XL
+British club,44,XXL
+Braclo,38,S
+Braclo,40,M
+Braclo,42,L
+Braclo,44,XL
+Braclo,46,XXL
+Cavallo By LInen,39,S
+Cavallo By LInen,40,M
+Cavallo By LInen,42,L
+Cavallo By LInen,44,XL
+Canary Lodon,36,S
+Canary Lodon,38,M
+Canary Lodon,40,L
+Canary Lodon,42,XL
+Canary Lodon,44,XXL
+Cantabil,38,S
+Cantabil,40,M
+Cantabil,42,L
+Cantabil,44,XL
+Celio,38,S
+Celio,40,M
+Celio,42,L
+Celio,44,XL
+Crocodile,38,S
+Crocodile,40,M
+Crocodile,42,L
+Crocodile,44,XL
+Crocodile,46,XXL
+Crimsoune Cloub,38,S
+Crimsoune Cloub,39,M
+Crimsoune Cloub,40,L
+Crimsoune Cloub,42,XL
+Crimsoune Cloub,44,XXL
+Cape Canary,39,M
+Cape Canary,40,L
+Cape Canary,42,XL
+Cape Canary,44,XXL
+Chennis,39,S
+Chennis,40,M
+Chennis,42,L
+Chennis,44,XL
+Chennis,46,XXL
+Calvin Klein Jeans,38,S
+Calvin Klein Jeans,40,M
+Calvin Klein Jeans,42,L
+Calvin Klein Jeans,44,XL
+Calvin Klein Jeans,45,XXL
+Chkokko,39,S
+Chkokko,40,M
+Chkokko,42,L
+Chkokko,44,XL
+Cobb,36,S
+Cobb,40,M
+Cobb,42,L
+Cobb,44,XL
+Cobb,46,XXL
+Club York,37,S
+Club York,39,M
+Club York,41,L
+Club York,43,XL
+Club York,45,XXL
+Cherokke,38,S
+Cherokke,40,M
+Cherokke,42,L
+Cherokke,44,XL
+Cherokke,46,XXL
+Copperline,38,S
+Copperline,40,M
+Copperline,42,L
+Copperline,44,XL
+Classic Polo,36,S
+Classic Polo,38,M
+Classic Polo,40,L
+Classic Polo,42,XL
+Classic Polo,44,XXL
+Columbia,40,S
+Columbia,42,M
+Columbia,44,L
+Columbia,46,XL
+Columbia,48,XXL
+Colvynharris,38,M
+Colvynharris,40,L
+Colvynharris,42,XL
+Colt,38,S
+Colt,40,M
+Colt,42,L
+Colt,44,XL
+Colt,46,XXL
+Croydon,38,S
+Croydon,40,M
+Croydon,42,L
+Croydon,44,XL
+Canoe,38,S
+Canoe,40,M
+Canoe,42,L
+Canoe,44,XL
+Canoe,46,XXL
+Croydon Uk,38,S
+Croydon Uk,40,M
+Croydon Uk,42,L
+Croydon Uk,44,XL
+Camla,39,S
+Camla,40,M
+Camla,42,L
+Camla,44,XL
+Camla,46,XXL
+Cross Court,38,S
+Cross Court,40,M
+Cross Court,42,L
+Cross Court,44,XL
+Callno Lodon,38,XS
+Callno Lodon,39,S
+Callno Lodon,40,M
+Callno Lodon,42,L
+Callno Lodon,44,XL
+Callno Lodon,46,XXL
+D Kumar,38,M
+D Kumar,40,L
+D Kumar,42,XL
+D Kumar,44,XXL
+Dillinger,38,S
+Dillinger,40,M
+Dillinger,42,L
+Dillinger,44,XL
+Dillinger,46,XXL
+Dejano,38,S
+Dejano,40,M
+Dejano,42,L
+Dejano,44,XL
+Dejano,46,XXL
+Don Vino,39,S
+Don Vino,40,M
+Don Vino,42,L
+Don Vino,44,XL
+Ducati,38,S
+Ducati,40,M
+Ducati,42,L
+Ducati,44,XL
+Ducati,46,XXL
+Double Two,38,S
+Double Two,40,M
+Double Two,42,L
+Double Two,44,XL
+Double Two,46,XXL
+Donzell,38,S
+Donzell,40,M
+Donzell,42,L
+Donzell,43,XL
+Donzell,44,XXL
+Dcot By Donear,44,XXL
+Disrupt,40.5,S
+Disrupt,42.5,M
+Disrupt,44.5,L
+Disrupt,46,XL
+Drean of Glory INC,36,XS
+Drean of Glory INC,38,S
+Drean of Glory INC,40,M
+Drean of Glory INC,42,L
+Drean of Glory INC,44,XL
+Drean of Glory INC,46,XXL
+Denimize by Fame Forever,38,S
+Denimize by Fame Forever,40,M
+Denimize by Fame Forever,42,L
+Denimize by Fame Forever,44,XL
+Denimize by Fame Forever,46,XXL
+English Navy,38,S
+English Navy,40,M
+English Navy,42,L
+English Navy,44,XL
+excalibur,39,S
+excalibur,40,M
+excalibur,42,L
+excalibur,44,XL
+excalibur,46,XXL
+Encore By Invictus,38,XS
+Encore By Invictus,39,S
+Encore By Invictus,40,M
+Encore By Invictus,42,L
+Encore By Invictus,44,XL
+Estela,39,S
+Estela,40,M
+Estela,42,L
+Estela,44,XL
+Ecentric,38,S
+Ecentric,40,M
+Ecentric,41,L
+Ecentric,44,XL
+Ecentric,46,XXL
+Even,36,S
+Even,38,M
+Even,40,L
+Even,42,XL
+Even,44,XXL
+Evooq,38,M
+Evooq,40,L
+Evooq,42,XL
+Evooq,44,XXL
+Emerals,38,S
+Emerals,40,M
+Emerals,42,L
+Emerals,44,XL
+Ethnix By Raymond,39,S
+Ethnix By Raymond,40,M
+Ethnix By Raymond,42,L
+Ethnix By Raymond,44,XL
+Eppe,38,S
+Eppe,40,M
+Eppe,42,L
+Eppe,44,XL
+ElaBaroda,38,S
+ElaBaroda,40,M
+ElaBaroda,42,L
+ElaBaroda,44,XL
+ElaBaroda,46,XXL
+Flying Machine,38,S
+Flying Machine,40,M
+Flying Machine,42,L
+Flying Machine,44,XL
+Flying Machine,46,XXL
+Fame Forever By Lifestyle,40,S
+Fame Forever By Lifestyle,42,M
+Fame Forever By Lifestyle,44,L
+Fame Forever By Lifestyle,46,XL
+Fame Forever By Lifestyle,48,XXL
+Forca,38,XS
+Forca,39,S
+Forca,40,M
+Forca,42,L
+Forca,44,XL
+Forca,46,XXL
+Fashion Fricks,38,M
+Fashion Fricks,40,L
+Fashion Fricks,42,XL
+French Connection,38,S
+French Connection,40,M
+French Connection,42,L
+French Connection,44,XL
+French Connection,46,XXL
+Fubar,38,M
+Fubar,40,L
+Fubar,42,XL
+Forcaz By Decathlon,38,S
+Forcaz By Decathlon,40,M
+Forcaz By Decathlon,42,L
+Forcaz By Decathlon,44,XL
+Forcaz By Decathlon,46,XXL
+Finnoy,38,S
+Finnoy,40,M
+Finnoy,42,L
+Finnoy,44,XL
+Finnoy,46,XXL
+FreeSoul,38,S
+FreeSoul,40,M
+FreeSoul,42,L
+FreeSoul,44,XL
+Fabindia,39,XS
+Fabindia,40,S
+Fabindia,42,M
+Fabindia,44,L
+Fabindia,46,XL
+Firangi Yarn,38,S
+Firangi Yarn,40,M
+Firangi Yarn,42,L
+Firangi Yarn,44,XL
+Forca By Lifestyle,38,XS
+Forca By Lifestyle,39,S
+Forca By Lifestyle,40,M
+Forca By Lifestyle,42,L
+Forca By Lifestyle,44,XL
+Forca By Lifestyle,46,XXL
+Foga,38,S
+Foga,40,M
+Foga,42,L
+Foga,44,XL
+Foga,46,XXL
+French Crown,38,XS
+French Crown,39,S
+French Crown,40,M
+French Crown,42,L
+French Crown,44,XL
+French Crown,46,XXL
+Four One Oh,39,S
+Four One Oh,40,M
+Four One Oh,42,L
+Four One Oh,44,XL
+Fugazze,38,S
+Fugazze,40,M
+Fugazze,42,L
+Fugazze,44,XL
+Fugazze,46,XXL
+GreenFibre,38,XS
+GreenFibre,39,S
+GreenFibre,40,M
+GreenFibre,42,L
+GreenFibre,44,XL
+Globus,38,S
+Globus,40,M
+Globus,42,L
+Globus,44,XL
+Globus,46,XXL
+Gant,36,S
+Gant,38,M
+Gant,40,L
+Gant,42,XL
+Gant,44,XXL
+Gespo,36,S
+Gespo,38,M
+Gespo,40,L
+Gespo,42,XL
+Gristones,38,S
+Gristones,40,M
+Gristones,42,L
+Gristones,44,XL
+Glordano,38,S
+Glordano,40,M
+Glordano,42,L
+Glordano,44,XL
+Glordano,46,XXL
+Hangup,38,S
+Hangup,40,M
+Hangup,42,L
+Hangup,44,XL
+High Star,38,S
+High Star,40,M
+High Star,42,L
+High Star,44,XL
+HubberHolme,38,S
+HubberHolme,40,M
+HubberHolme,42,L
+HubberHolme,44,XL
+Huetrap,36,S
+Huetrap,39,M
+Huetrap,40,L
+Huetrap,42,XL
+Huetrap,44,XXL
+Harsam,36,S
+Harsam,38,M
+Harsam,40,L
+Harsam,42,XL
+Harsam,44,XXL
+Hatheli,38,M
+Hatheli,40,L
+Hatheli,42,XL
+Hatheli,44,XXL
+Hypernation,38,S
+Hypernation,40,M
+Hypernation,42,L
+Hypernation,44,XL
+Hypernation,46,XXL
+Huggun,39,S
+Huggun,40,M
+Huggun,41,L
+Huggun,42.5,XL
+Indian Terrian,38,S
+Indian Terrian,40,M
+Indian Terrian,42,L
+Indian Terrian,44,XL
+Indian Terrian,46,XXL
+Indo Era,38,S
+Indo Era,40,M
+Indo Era,42,L
+Indo Era,44,XL
+Indo Era,46,XXL
+Imyoung,38,S
+Imyoung,40,M
+Imyoung,42,L
+Imyoung,44,XL
+Imyoung,46,XXL
+Indus Route By Pantaloons,39,S
+Indus Route By Pantaloons,40,M
+Indus Route By Pantaloons,42,L
+Indus Route By Pantaloons,44,XL
+Indus Route By Pantaloons,46,XXL
